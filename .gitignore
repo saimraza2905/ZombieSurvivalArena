@@ -1,0 +1,14 @@
+# compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# editor folders
+.vscode/
+.vs/
+
+# backup and temporary files
+*.bak
+*.tmp
+*~
